@@ -1,4 +1,5 @@
 #include "QuickS.h"
+#include <iostream>
 
 using namespace std;
 int main()
